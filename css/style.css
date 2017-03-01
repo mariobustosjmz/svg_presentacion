@@ -1,0 +1,771 @@
+#areas {
+    background: #8e8f91;
+}
+
+aside {
+    /* width: 50%;*/
+    /* min-width: 250px; */
+    /* max-width: 500px; */
+    margin: 0px auto;
+}
+
+.wufoo-ad-wrap {
+    /* height: 0; */
+    /* padding-top: 97%; */
+    /* position: relative; */
+}
+
+.wufoo-ad {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.wufoo-ad-text {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    float: right;
+    background: #ffffff;
+}
+
+g:hover,
+g.hovered {
+    /**
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+**/
+}
+
+#f_1 {
+    animation: popup 1s ease infinite;
+}
+
+g[id*=humo].a {
+    animation: test .9s ease-in-out infinite, popup .8s ease-in-out infinite;
+}
+
+g[id*=humo].b {
+    animation: test2 .9s ease-in-out infinite, popup .8s ease-in-out infinite;
+}
+
+@keyframes test {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: .8;
+    }
+    100% {
+        opacity: .9;
+    }
+}
+
+@keyframes test2 {
+    0% {
+        opacity: .9;
+    }
+    50% {
+        opacity: .8;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#svg {
+    transform: translate(0px, 0px);
+}
+
+.estrella {
+    animation: fall-2 1.5s linear infinite;
+}
+
+.estrella_2 {
+    animation: fall 2s linear infinite;
+}
+
+#flama {
+    animation: shake_flame .2s linear infinite;
+}
+
+@keyframes shake {
+    10%,
+    90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%,
+    80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%,
+    50%,
+    70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%,
+    60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
+@keyframes fall {
+    from {
+        transform: translate(0px, -10px);
+    }
+    to {
+        transform: translate(0px, 150px)
+    }
+}
+
+@keyframes fall-2 {
+    from {
+        transform: translate(0px, -10px);
+    }
+    to {
+        transform: translate(0px, 150px)
+    }
+}
+
+@keyframes popup {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    50% {
+        transform: translate(0px, 5px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+@keyframes shake_flame {
+    0% {
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+    20% {
+        -webkit-transform: translate(0px, 1px);
+        transform: translate(0px, 1px);
+    }
+    40% {
+        -webkit-transform: translate(0px, 2px);
+        transform: translate(0px, 2px);
+    }
+    60% {
+        -webkit-transform: translate(0px, 1px);
+        transform: translate(0px, 1px);
+    }
+    100% {
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+}
+
+
+/*
+rotate(1deg)
+rotate(0deg)
+*/
+
+
+/***********************/
+
+body {
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+    overflow: hidden;
+}
+
+.rect {
+    background: -webkit-linear-gradient(315deg, #333, #a5a5a5);
+    background: linear-gradient(135deg, #333, #a5a5a5);
+    box-shadow: 0 30px 50px -20px #111;
+    border-radius: 10px;
+    width: 90%;
+    height: 35%;
+    margin: 25% auto;
+}
+
+.content {
+    line-height: 1.5;
+}
+
+.first,
+.second,
+.third {
+    /* display: inline-block; */
+}
+
+.text-1,
+.text-2 {
+    color: #fff;
+    font-size: 17px;
+    align: center;
+    text-align: left;
+}
+
+.text-1 {
+    padding-left: 100px;
+}
+
+.text-2 {
+    padding-left: 50px;
+}
+
+li {
+    list-style-type: circle;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    background: #fff;
+    color: #fff;
+    text-align: center;
+    font: 18px Arial, sans-serif;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.numberCircle.one {
+    background: #e94136;
+}
+
+.numberCircle.two {
+    background: #f18e1e;
+}
+
+.numberCircle.tree {
+    background: #f5aa40;
+}
+
+h4 {
+    display: inline-block;
+}
+
+div.qua {
+    margin-top: 10px;
+}
+
+.text-1 {
+    padding-left: 100px !important;
+}
+
+
+/***********************/
+
+.contorno.select {
+    animation: draw 15s linear infinite;
+}
+
+@keyframes draw {
+    0% {
+        stroke-dashoffset: -170;
+    }
+    50% {
+        stroke-dashoffset: 170;
+    }
+    100% {
+        stroke-dashoffset: -170;
+    }
+}
+
+svg:not(:root) {
+    overflow: hidden;
+    z-index: 9999;
+}
+
+.modal-lg {
+    width: 85%;
+}
+
+@media (min-width: 992px) {
+    .modal-lg {
+        width: 85%;
+    }
+}
+
+
+/** DOS **/
+
+#circle303,
+#circ_2,
+#circle87,
+#circle191,
+#circle375,
+#circle247 {
+    stroke-dasharray: 20;
+    stroke-dashoffset: -170;
+    stroke: #444;
+    stroke-width: 8px;
+    transform-origin: 50% 50%;
+    animation: draw 15s linear infinite;
+}
+
+@keyframes draw {
+    0% {
+        stroke-dashoffset: -170;
+    }
+    50% {
+        stroke-dashoffset: 170;
+    }
+    100% {
+        stroke-dashoffset: -170;
+    }
+}
+
+svg:not(:root) {
+    overflow: hidden;
+    z-index: 9999;
+}
+
+
+/** DOS **/
+
+
+/** TRES **/
+
+aside {
+    /* width: 50%;*/
+    /* min-width: 250px; */
+    /* max-width: 500px; */
+    margin: 0px auto;
+}
+
+.wufoo-ad-wrap {
+    /* height: 0; */
+    /* padding-top: 97%; */
+    /* position: relative; */
+}
+
+.wufoo-ad {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.wufoo-ad-text {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    float: right;
+    background: #ffffff;
+}
+
+g:hover,
+g.hovered {
+    /**
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+**/
+}
+
+#f_1 {
+    animation: popup 1s ease infinite;
+}
+
+g[id*=humo].a {
+    animation: test .9s ease-in-out infinite, popup .8s ease-in-out infinite;
+}
+
+g[id*=humo].b {
+    animation: test2 .9s ease-in-out infinite, popup .8s ease-in-out infinite;
+}
+
+@keyframes test {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: .8;
+    }
+    100% {
+        opacity: .9;
+    }
+}
+
+@keyframes test2 {
+    0% {
+        opacity: .9;
+    }
+    50% {
+        opacity: .8;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#svg {
+    transform: translate(0px, 0px);
+}
+
+.estrella {
+    animation: fall-2 1.5s linear infinite;
+}
+
+.estrella_2 {
+    animation: fall 2s linear infinite;
+}
+
+#flama {
+    animation: shake_flame .2s linear infinite;
+}
+
+@keyframes shake {
+    10%,
+    90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%,
+    80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%,
+    50%,
+    70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%,
+    60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
+@keyframes fall {
+    from {
+        transform: translate(0px, -10px);
+    }
+    to {
+        transform: translate(0px, 150px)
+    }
+}
+
+@keyframes fall-2 {
+    from {
+        transform: translate(0px, -10px);
+    }
+    to {
+        transform: translate(0px, 150px)
+    }
+}
+
+@keyframes popup {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    50% {
+        transform: translate(0px, 5px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+@keyframes shake_flame {
+    0% {
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+    20% {
+        -webkit-transform: translate(0px, 1px);
+        transform: translate(0px, 1px);
+    }
+    40% {
+        -webkit-transform: translate(0px, 2px);
+        transform: translate(0px, 2px);
+    }
+    60% {
+        -webkit-transform: translate(0px, 1px);
+        transform: translate(0px, 1px);
+    }
+    100% {
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+}
+
+
+/*
+rotate(1deg)
+rotate(0deg)
+*/
+
+
+/***********************/
+
+body {
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+.rect {
+    background: -webkit-linear-gradient(315deg, #333, #a5a5a5);
+    background: linear-gradient(135deg, #333, #a5a5a5);
+    box-shadow: 0 30px 50px -20px #111;
+    border-radius: 10px;
+    width: 90%;
+    height: 35%;
+    margin: 25% auto;
+}
+
+.content {
+    line-height: 1.5;
+}
+
+.first,
+.second,
+.third {
+    /* display: inline-block; */
+}
+
+.text-1,
+.text-2 {
+    color: #fff;
+    font-size: 17px;
+    align: center;
+    text-align: left;
+}
+
+.text-1 {
+    padding-left: 100px;
+}
+
+.text-2 {
+    padding-left: 50px;
+}
+
+li {
+    list-style-type: circle;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+    background: #fff;
+    color: #fff;
+    text-align: center;
+    font: 18px Arial, sans-serif;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.numberCircle.one {
+    background: #e94136;
+}
+
+.numberCircle.two {
+    background: #f18e1e;
+}
+
+.numberCircle.tree {
+    background: #f5aa40;
+}
+
+h4 {
+    display: inline-block;
+}
+
+div.qua {
+    margin-top: 10px;
+}
+
+.text-1 {
+    padding-left: 100px !important;
+}
+
+
+/***********************/
+
+.contorno.select {
+    animation: draw 15s linear infinite;
+}
+
+@keyframes draw {
+    0% {
+        stroke-dashoffset: -170;
+    }
+    50% {
+        stroke-dashoffset: 170;
+    }
+    100% {
+        stroke-dashoffset: -170;
+    }
+}
+
+svg:not(:root) {
+    overflow: hidden;
+    z-index: 9999;
+}
+
+.modal-lg {
+    width: 85%;
+}
+
+@media (min-width: 992px) {
+    .modal-lg {
+        width: 85%;
+    }
+}
+
+
+/** DOS **/
+
+#circle303,
+#circ_2,
+#circle87,
+#circle191,
+#circle375,
+#circle247 {
+    stroke-dasharray: 20;
+    stroke-dashoffset: -170;
+    stroke: #444;
+    stroke-width: 8px;
+    transform-origin: 50% 50%;
+    animation: draw 15s linear infinite;
+}
+
+@keyframes draw {
+    0% {
+        stroke-dashoffset: -170;
+    }
+    50% {
+        stroke-dashoffset: 170;
+    }
+    100% {
+        stroke-dashoffset: -170;
+    }
+}
+
+svg:not(:root) {
+    overflow: hidden;
+    z-index: 9999;
+}
+
+
+/** DOS **/
+
+
+/** TRES **/
+
+#body_tres {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('http://clr.com.mx/oshkosh1.jpg');
+    background-repeat: repeat;
+    /* background-size: contain;*/
+    background-size: cover;
+    overflow: hidden;
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+svg.intro {
+    background: linear-gradient(135deg, #333, #aaa);
+    -webkit-background: linear-gradient(135deg, #333, #aaa);
+    max-width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0 30px 50px -20px #111;
+}
+
+svg.intro .text {
+    display: none;
+}
+
+svg.intro.go .text {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    display: block;
+}
+
+svg.intro.go .text-stroke {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 2.8px;
+    stroke-dashoffset: -900;
+    stroke-dasharray: 900;
+    stroke-linecap: butt;
+    stroke-linejoin: round;
+    -webkit-animation: dash 2.5s ease-in-out forwards;
+    animation: dash 2.5s ease-in-out forwards;
+}
+
+svg.intro.go .text-stroke:nth-child(2) {
+    -webkit-animation-delay: .3s;
+    animation-delay: .3s;
+}
+
+svg.intro.go .text-stroke:nth-child(3) {
+    -webkit-animation-delay: .9s;
+    animation-delay: .9s;
+}
+
+svg.intro.go .text-stroke-2 {
+    stroke: #f6921e;
+    -webkit-animation-delay: 1.2s;
+    animation-delay: 1.2s;
+}
+
+svg.intro.go .text-stroke:nth-child(5) {
+    -webkit-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+
+svg.intro.go .text-stroke:nth-child(6) {
+    -webkit-animation-delay: 1.8s;
+    animation-delay: 1.8s;
+}
+
+@-webkit-keyframes dash {
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes dash {
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+
+/** TRES **/
+
+
+/** SIETE **/
+
+#body_siete {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('http://clr.com.mx/palax1.jpg');
+    background-repeat: repeat;
+    /* background-size: contain;*/
+    background-size: cover;
+    overflow: hidden;
+    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}

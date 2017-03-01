@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"show"
+			],
+			[
+				"else",
+				"else if()"
+			],
+			[
+				"porta",
+				"portafolio01"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 12104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/funciones_svg.js",
+			"settings":
+			{
+				"buffer_size": 69247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 91037,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"ind",
+				"Indexing Status"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/usr/share/nginx/html/CLR"
+	],
+	"file_history":
+	[
+		"/usr/share/nginx/html/CLR/detalles.data",
+		"/usr/share/nginx/html/CLR/css/style.css",
+		"/usr/share/nginx/html/CLR/js/funciones_svg.js",
+		"/usr/share/nginx/html/CLR/index.html",
+		"/usr/share/nginx/html/CLR/svg/logo-color-glow.svg",
+		"/usr/share/nginx/html/CLR/svg/empresa5-1.svg",
+		"/usr/share/nginx/html/CLR/svg/planos1-5.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio01.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio02.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio03.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio04.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio05.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio06.svg",
+		"/usr/share/nginx/html/CLR/svg/portafolio07.svg",
+		"/usr/share/nginx/html/CLR/svg/tecnologia.svg",
+		"/usr/share/nginx/html/CLR/index10.html",
+		"/usr/share/nginx/html/CLR/js/funciones_svg_9.js",
+		"/usr/share/nginx/html/CLR/index9.html",
+		"/usr/share/nginx/html/CLR/css/style9.css",
+		"/usr/share/nginx/html/CLR/js/funciones_svg_2.js",
+		"/usr/share/nginx/html/CLR/index2.html",
+		"/usr/share/nginx/html/CLR/css/style_2.css",
+		"/usr/share/nginx/html/CLR/Comparativa de planos_",
+		"/usr/share/nginx/html/CLR/index8.html",
+		"/usr/share/nginx/html/CLR/css/style10.css",
+		"/usr/share/nginx/html/CLR/js/index10.js",
+		"/usr/share/nginx/html/CLR/svg/Comparacion1.svg",
+		"/usr/share/nginx/html/CLR/css/style8.css",
+		"/usr/share/nginx/html/CLR/js/funciones_svg_8.js",
+		"/usr/share/nginx/html/CLR/svg/proyecto.svg",
+		"/usr/share/nginx/html/CLR/js/funciones_svg_7.js",
+		"/usr/share/nginx/html/CLR/css/style7.css",
+		"/usr/share/nginx/html/CLR/index7.html",
+		"/usr/share/nginx/html/CLR/js/index5.js",
+		"/usr/share/nginx/html/CLR/css/style5.css",
+		"/usr/share/nginx/html/CLR/index5.html",
+		"/usr/share/nginx/html/CLR/js/funciones_4.js",
+		"/usr/share/nginx/html/CLR/css/style4.css",
+		"/usr/share/nginx/html/CLR/index4.html",
+		"/home/manjaro/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/usr/share/nginx/html/CLR/js/funciones_svg_3.js",
+		"/usr/share/nginx/html/CLR/css/style3.css",
+		"/usr/share/nginx/html/CLR/index3.html",
+		"/home/manjaro/Descargas/LIBRES (1).JSN"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/usr/share/nginx/html/CLR/svg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.info(",
+			"f_6",
+			"fadeAnimation",
+			"f_com",
+			"fadeAnimation",
+			"t_juntps",
+			"c_juntos",
+			"f_juntos",
+			"f_3",
+			"f_juntos",
+			"f_com_clean",
+			"f_com",
+			"f_5",
+			"3cualida",
+			"cuatro",
+			"ff_juntos",
+			".html(",
+			"Snap.load",
+			"svg_cocina_cinco",
+			"humo",
+			"c_ventilacion_1",
+			"v1_1",
+			"comparacion",
+			"pccircle_5",
+			"pctext_",
+			"circle",
+			"c_2",
+			"b_3",
+			"espacios",
+			"id = \"pcircle_",
+			"id = \"ptext_",
+			"\n            all = areas.selectAll(\"rect , text , circle\");\n            all.attr({ opacity: '0' });\n",
+			"a_3",
+			"dos()",
+			"v1_2",
+			"porta",
+			"portafolio03",
+			"cc_4",
+			"r360",
+			"r0",
+			"fadeAnimation",
+			"f_4",
+			"fadeAnimation",
+			"f_4",
+			"f_3",
+			"fadeAnimation",
+			"f_3",
+			"cy",
+			"f_com",
+			"cy",
+			"ty",
+			"130",
+			"cy",
+			"250",
+			"cy",
+			"f_3",
+			"f_com",
+			"f_3",
+			"130",
+			"(\"ok\");\n",
+			"        console.info(\"ok\");\n",
+			"f_com",
+			"f_4",
+			"f_juntos",
+			"f_1",
+			"f_2",
+			"f_1",
+			"show_circ",
+			"show",
+			"f_com()",
+			"f_3",
+			"svg_cocina",
+			"svg_cocina_siete",
+			"v1_3",
+			"step",
+			"total_steps",
+			"config",
+			"f_7",
+			"v1_2",
+			"d3_3",
+			"a_distribucion",
+			"b_1",
+			"f_com",
+			"all",
+			"f_com",
+			"film_5",
+			"f_4com",
+			"f_5",
+			"g127",
+			"id=\"g127\"",
+			"uno",
+			"();\n",
+			"id=\"back\"",
+			"body",
+			"f_4com",
+			"OutAnimation",
+			"f_5",
+			"f_com",
+			"f_3",
+			"com()",
+			"fadeAnimation",
+			"f_com",
+			"f_3",
+			"svg",
+			"tres()",
+			"terce",
+			"circ_5",
+			"Snap.load(",
+			"dos()",
+			"selectAll",
+			"id=",
+			"id",
+			"dos",
+			"svg_cocina_dos",
+			"dos()",
+			"svg_cocina_siete",
+			"siete(",
+			"('go').delay(",
+			"tres(",
+			"dos(",
+			"onclick=",
+			"onclick",
+			"portafolio01",
+			" >",
+			"porta()",
+			"portafolio02",
+			"svg_cocina_siete",
+			"body_tres"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id : \"pcircle_",
+			"id : \"ptext_",
+			"data=",
+			"",
+			"PARCELA 45 LAS AVES S-2\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/funciones_svg.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56551,
+								56551
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										56744,
+										56745
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										56309,
+										56310
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 49941.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										1,
+										5
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 160.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 180.0
+	},
+	"pinned_build_system": "",
+	"project": "PRESENTACION.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"logo-color-glow.svg",
+				"svg/logo-color-glow.svg"
+			],
+			[
+				"empresa5-1.svg",
+				"svg/empresa5-1.svg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
